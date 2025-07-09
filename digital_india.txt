@@ -1,0 +1,95 @@
+# Digital India Programme
+
+## Introduction
+
+The Digital India Programme was launched by the Hon’ble Prime Minister of India, Shri Narendra Modi, on **July 1, 2015**. It is a flagship programme to transform India into a digitally empowered society and knowledge economy. It aims to bridge the digital divide, ensure digital inclusion, and bring transparent governance by leveraging the power of technology.
+
+---
+
+## Vision
+
+"Power to Empower" – Digital India envisions three key areas:
+1. **Digital Infrastructure as a Core Utility to Every Citizen**
+2. **Governance and Services on Demand**
+3. **Digital Empowerment of Citizens**
+
+---
+
+## Key Components
+
+### 1. BharatNet
+- World’s largest rural broadband connectivity programme.
+- Provides high-speed broadband to all 2.5 lakh Gram Panchayats.
+
+### 2. DigiLocker
+- A cloud-based platform for issuing, storing, and verifying documents.
+- Linked with Aadhaar.
+- Over 15 crore registered users as of 2025.
+
+### 3. UMANG (Unified Mobile Application for New-age Governance)
+- Single app for 800+ central and state government services.
+- Available in 13+ languages.
+
+### 4. eSign
+- Allows citizens to digitally sign a document using Aadhaar authentication.
+
+### 5. Common Services Centers (CSCs)
+- Act as digital access points for public services in rural India.
+- Over 5 lakh CSCs operating across the country.
+
+### 6. MyGov
+- Online platform for citizen engagement and participation in governance.
+
+### 7. Aadhaar
+- Biometric digital identity.
+- Over 1.2 billion enrollments.
+- Used across services like banking, LPG, scholarships, etc.
+
+### 8. Digital Payments & UPI
+- BHIM App and Unified Payments Interface (UPI) revolutionized mobile transactions.
+- Over 13 billion UPI transactions monthly (2025).
+
+---
+
+## Achievements
+
+- **DigiLocker** usage crossed 8 billion document uploads.
+- **UPI** processed over ₹15 lakh crore in monthly transactions.
+- **Over 5 crore students** received scholarships through Direct Benefit Transfers.
+- **PMGDISHA** trained over 6 crore citizens in digital literacy.
+- **Aadhaar-enabled services** used in over 100+ schemes.
+
+---
+
+## Challenges
+
+- **Digital divide** – Urban vs rural connectivity.
+- **Cybersecurity** – Protection against data breaches and phishing.
+- **Digital literacy** – Especially among elderly and rural women.
+- **Infrastructure** – Connectivity in remote and tribal areas.
+
+---
+
+## Future Goals
+
+- Use of **AI**, **blockchain**, and **machine learning** to improve governance.
+- Nationwide **5G rollout**.
+- Promoting **Make in India** for electronic manufacturing.
+- Achieve **100% digital literacy**.
+
+---
+
+## Quotes
+
+> “Digital India is not just a programme, it is a movement to empower every citizen of the country.”  
+— PM Narendra Modi
+
+> “Digital technology is a great equalizer.”  
+— Ravi Shankar Prasad, former IT Minister
+
+---
+
+## Conclusion
+
+Digital India has been a game changer in transforming service delivery, reducing corruption, and promoting inclusion. With robust initiatives like UPI, DigiLocker, and BharatNet, India is marching towards becoming a global digital superpower.
+

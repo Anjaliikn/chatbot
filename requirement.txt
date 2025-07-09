@@ -1,0 +1,7 @@
+streamlit
+wikipedia
+pydantic
+langchain
+langchain-cohere
+cohere
+faiss-cpu
